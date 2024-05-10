@@ -12,12 +12,24 @@ h1 {
 
 h1 {
     color: cornflowerblue;
+    font-size: 50px;
+    border: 5px black solid;
+    border-radius: 20px;
 }
 
 .title {
     background-color: lightpink;
+    text-align: center;
+    
+}
+
+h3 {
+    text-align: center;
+    color: slategray;
 }
 
 #important {
     color: green;
 }
+
+* {font-style: italic;}
