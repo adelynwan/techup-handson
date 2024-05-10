@@ -1,0 +1,23 @@
+/*
+h1 {
+    color: cornflowerblue;
+    background-color: lightpink;
+    text-align: center;
+    border: 5px seagreen solid;
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+*/
+
+h1 {
+    color: cornflowerblue;
+}
+
+.title {
+    background-color: lightpink;
+}
+
+#important {
+    color: green;
+}
