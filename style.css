@@ -39,6 +39,8 @@ button {
     background-color: lightblue;
     font-size: 2rem;
     color: blue;
+    position: relative;
+    left: 600px;
 }
 
 * {font-style: italic;}
