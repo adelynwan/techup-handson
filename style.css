@@ -38,6 +38,7 @@ h3 {
 button {
     background-color: lightblue;
     font-size: 2rem;
+    color: blue;
 }
 
 * {font-style: italic;}
