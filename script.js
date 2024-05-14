@@ -46,9 +46,9 @@ function Hello() {
 function Gender() {
     var gender = prompt("What is your gender? Please enter male or female");
 
-    if (gender.toLowerCase() === "female") {
+    if (gender.toLowerCase() == "female") {
         alert("You are a female!");
-    } else if (gender.toLowerCase() === "male") {
+    } else if (gender.toLowerCase() == "male") {
         alert("You are a male!");
     } else {
         alert("Invalid user input!!!");
