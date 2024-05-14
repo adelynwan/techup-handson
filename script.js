@@ -43,4 +43,18 @@ function Hello() {
     alert("Hello " + user_name + ", it's very nice to meet you!")
 }
 
+function Gender() {
+    var gender = prompt("What is your gender? Please enter male or female");
+
+    if (gender.toLowerCase() === "female") {
+        alert("You are a female!");
+    } else if (gender.toLowerCase() === "male") {
+        alert("You are a male!");
+    } else {
+        alert("Invalid user input!!!");
+    }
+}
+
+
+
 
