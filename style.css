@@ -35,4 +35,9 @@ h3 {
     color: green;
 }
 
+button {
+    background-color: lightblue;
+    font-size: 2rem;
+}
+
 * {font-style: italic;}
